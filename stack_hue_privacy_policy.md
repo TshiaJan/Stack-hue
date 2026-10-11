@@ -28,4 +28,4 @@ We may update this policy periodically to reflect platform updates or legal requ
 ### 7. Contact Us
 For questions regarding this Privacy Policy:
 - **Developer / Publisher:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janaire.dev@gmail.com
